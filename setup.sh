@@ -10,8 +10,8 @@ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | s
 
 # Load nvm and install latest production node
 source $HOME/.nvm/nvm.sh
-nvm install v5.8.0
-nvm use v5.8.0
+nvm install v6.5.0
+nvm use v6.5.0
 
 # Install jshint to allow checking of JS code within emacs
 # http://jshint.com/
